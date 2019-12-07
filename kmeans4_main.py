@@ -13,7 +13,7 @@ import scipy
 import sys
 
 #reading graph file into csv file- contains only edges
-f_name = "ca-GrQc.txt"
+f_name = raw_input("Enter the file name")
 f=open(f_name) 
 graph=np.array(pd.read_csv(f,sep=' ',header=None,skiprows=1))
 
