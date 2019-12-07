@@ -7,4 +7,11 @@ The zip folder contains:
 and BasicKmeans_$graphname$.txt shows the output for our basic Kmeans.
 5. Graph Dataset which is used as the input : $graphname$.txt
 
-To run the codes, please make sure that the graph datasets are in the same location as the codes are in.
+Notes on running the codes:
+1. Download the zip and ensure that all the graph datasets(inputs) are in the same folder as the codes are in
+2. Enter the name of the graph file you want to see the result of in the form $graph$.txt
+3. Output would be the textfiles containing clusters and the value of the objective function
+
+Python Notebook:
+THe current exploration is done for graph ca-GrQc.txt. In order to see the outputs of other graphs, please change f_name in loading graph section.
+
