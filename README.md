@@ -13,5 +13,5 @@ Notes on running the codes:
 3. Output would be the textfiles containing clusters and the value of the objective function
 
 Python Notebook:
-THe current exploration is done for graph ca-GrQc.txt. In order to see the outputs of other graphs, please change f_name in loading graph section.
+The current exploration is done for graph ca-GrQc.txt. In order to see the outputs of other graphs, please change f_name in loading graph section.
 
