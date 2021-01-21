@@ -1,4 +1,9 @@
 # AMDM
+
+Authors: 
+Shaghayegh Safar
+Kavya Sreekumar 
+
 The zip folder contains:
 1. Final project report : AMDM_Project.pdf
 2. Codes we used to obtain results in report : Project_main.py and kmeans4_main.py
